@@ -58,7 +58,25 @@ Data is only processed by technical service providers necessary for the function
 
 We take reasonable measures to protect the technical data processed by the application using secure infrastructure provided by Google Firebase.
 
-## 8. Contact
+## 8. Data Deletion Request - Holy Quran App
+
+Thank you for using **Holy Quran**.
+
+This application does **not collect any personally identifiable information** (such as name, email address, phone number, etc.). The only data processed is **anonymous and technical** (anonymous Firebase identifier, device information like model and OS version, crash reports, and anonymous khatma completion dates).
+
+If you wish to request the deletion of any data associated with your device (e.g., crash reports or anonymous usage stats collected via Firebase), please contact us by email at: **alainmaximealary@gmail.com** (or the contact email listed in the full privacy policy).
+
+In your email, please include:
+- App name: **Holy Quran**
+- Your device model and Android version (optional, to help identify anonymous data if needed)
+- Your request for data deletion
+
+We will process your request as soon as possible (typically within 30 days), in accordance with applicable laws (including GDPR where relevant).  
+Note: Some anonymous technical data may be temporarily retained by Firebase for app stability and security purposes, but it is **not linked to your personal identity** and is not sold or shared for commercial purposes. No data is stored indefinitely.
+
+For the full privacy policy, see the rest of this page.
+
+## 9. Contact
 
 If you have any questions regarding this Privacy Policy, you may contact us at:
 
